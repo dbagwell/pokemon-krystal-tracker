@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Route 31 - Wade - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/wade_bw.png",
+    "disabled_img": "images/locations/wade.png",
+    "disabled_img_mods": "none",
+    "codes": "WADE_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 31 - Wade - Received Call",
+    "type": "toggle",
+    "img": "images/locations/wade_bw.png",
+    "disabled_img": "images/locations/wade.png",
+    "disabled_img_mods": "none",
+    "codes": "WADE_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 34 - Gina - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/gina_bw.png",
+    "disabled_img": "images/locations/gina.png",
+    "disabled_img_mods": "none",
+    "codes": "GINA_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 34 - Gina - Received Call",
+    "type": "toggle",
+    "img": "images/locations/gina_bw.png",
+    "disabled_img": "images/locations/gina.png",
+    "disabled_img_mods": "none",
+    "codes": "GINA_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 34 - Todd - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/todd_bw.png",
+    "disabled_img": "images/locations/todd.png",
+    "disabled_img_mods": "none",
+    "codes": "TODD_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 34 - Todd - Received Call",
+    "type": "toggle",
+    "img": "images/locations/todd_bw.png",
+    "disabled_img": "images/locations/todd.png",
+    "disabled_img_mods": "none",
+    "codes": "TODD_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 36 - Alan - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/alan_bw.png",
+    "disabled_img": "images/locations/alan.png",
+    "disabled_img_mods": "none",
+    "codes": "ALAN_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 36 - Alan - Received Call",
+    "type": "toggle",
+    "img": "images/locations/alan_bw.png",
+    "disabled_img": "images/locations/alan.png",
+    "disabled_img_mods": "none",
+    "codes": "ALAN_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 38 - Dana - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/dana_bw.png",
+    "disabled_img": "images/locations/dana.png",
+    "disabled_img_mods": "none",
+    "codes": "DANA_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 38 - Dana - Received Call",
+    "type": "toggle",
+    "img": "images/locations/dana_bw.png",
+    "disabled_img": "images/locations/dana.png",
+    "disabled_img_mods": "none",
+    "codes": "DANA_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 42 - Tully - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/tully_bw.png",
+    "disabled_img": "images/locations/tully.png",
+    "disabled_img_mods": "none",
+    "codes": "TULLY_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 42 - Tully - Received Call",
+    "type": "toggle",
+    "img": "images/locations/tully_bw.png",
+    "disabled_img": "images/locations/tully.png",
+    "disabled_img_mods": "none",
+    "codes": "TULLY_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 44 - Wilton - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/wilton_bw.png",
+    "disabled_img": "images/locations/wilton.png",
+    "disabled_img_mods": "none",
+    "codes": "WILTON_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 44 - Wilton - Received Call",
+    "type": "toggle",
+    "img": "images/locations/wilton_bw.png",
+    "disabled_img": "images/locations/wilton.png",
+    "disabled_img_mods": "none",
+    "codes": "WILTON_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 27 - Jose - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/jose_bw.png",
+    "disabled_img": "images/locations/jose.png",
+    "disabled_img_mods": "none",
+    "codes": "JOSE_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 27 - Jose - Received Call",
+    "type": "toggle",
+    "img": "images/locations/jose_bw.png",
+    "disabled_img": "images/locations/jose.png",
+    "disabled_img_mods": "none",
+    "codes": "JOSE_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 30 - Joey - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/joey_bw.png",
+    "disabled_img": "images/locations/joey.png",
+    "disabled_img_mods": "none",
+    "codes": "JOEY_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 30 - Joey - Received Call",
+    "type": "toggle",
+    "img": "images/locations/joey_bw.png",
+    "disabled_img": "images/locations/joey.png",
+    "disabled_img_mods": "none",
+    "codes": "JOEY_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Olivine Lighthouse - 2F - Huey - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/huey_bw.png",
+    "disabled_img": "images/locations/huey.png",
+    "disabled_img_mods": "none",
+    "codes": "HUEY_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Olivine Lighthouse - 2F - Huey - Received Call",
+    "type": "toggle",
+    "img": "images/locations/huey_bw.png",
+    "disabled_img": "images/locations/huey.png",
+    "disabled_img_mods": "none",
+    "codes": "HUEY_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 44 - Vance - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/vance_bw.png",
+    "disabled_img": "images/locations/vance.png",
+    "disabled_img_mods": "none",
+    "codes": "VANCE_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 44 - Vance - Received Call",
+    "type": "toggle",
+    "img": "images/locations/vance_bw.png",
+    "disabled_img": "images/locations/vance.png",
+    "disabled_img_mods": "none",
+    "codes": "VANCE_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 45 - Parry - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/parry_bw.png",
+    "disabled_img": "images/locations/parry.png",
+    "disabled_img_mods": "none",
+    "codes": "PARRY_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 45 - Parry - Received Call",
+    "type": "toggle",
+    "img": "images/locations/parry_bw.png",
+    "disabled_img": "images/locations/parry.png",
+    "disabled_img_mods": "none",
+    "codes": "PARRY_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 46 - Erin - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/erin_bw.png",
+    "disabled_img": "images/locations/erin.png",
+    "disabled_img_mods": "none",
+    "codes": "ERIN_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 46 - Erin - Received Call",
+    "type": "toggle",
+    "img": "images/locations/erin_bw.png",
+    "disabled_img": "images/locations/erin.png",
+    "disabled_img_mods": "none",
+    "codes": "ERIN_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "National Park - Beverly - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/beverly_bw.png",
+    "disabled_img": "images/locations/beverly.png",
+    "disabled_img_mods": "none",
+    "codes": "BEVERLY_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "National Park - Beverly - Received Call",
+    "type": "toggle",
+    "img": "images/locations/beverly_bw.png",
+    "disabled_img": "images/locations/beverly.png",
+    "disabled_img_mods": "none",
+    "codes": "BEVERLY_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 39 - Derek - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/derek_bw.png",
+    "disabled_img": "images/locations/derek.png",
+    "disabled_img_mods": "none",
+    "codes": "DEREK_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 39 - Derek - Received Call",
+    "type": "toggle",
+    "img": "images/locations/derek_bw.png",
+    "disabled_img": "images/locations/derek.png",
+    "disabled_img_mods": "none",
+    "codes": "DEREK_PHONE_CALL_HOSTED"
+  },
+  {
+    "name": "Route 43 - Tiffany - Registered Number",
+    "type": "toggle",
+    "img": "images/locations/tiffany_bw.png",
+    "disabled_img": "images/locations/tiffany.png",
+    "disabled_img_mods": "none",
+    "codes": "TIFFANY_PHONE_NUMBER_HOSTED"
+  },
+  {
+    "name": "Route 43 - Tiffany - Received Call",
+    "type": "toggle",
+    "img": "images/locations/tiffany_bw.png",
+    "disabled_img": "images/locations/tiffany.png",
+    "disabled_img_mods": "none",
+    "codes": "TIFFANY_PHONE_CALL_HOSTED"
+  }
+]

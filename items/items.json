@@ -1,0 +1,585 @@
+[
+  {
+    "name": "Zephyrbadge (Flash)",
+    "type": "toggle",
+    "img": "images/items/zephyrbadge.png",
+    "codes": "BADGE,ZEPHYRBADGE"
+  },
+  {
+    "name": "Hivebadge (Cut)",
+    "type": "toggle",
+    "img": "images/items/hivebadge.png",
+    "codes": "BADGE,HIVEBADGE"
+  },
+  {
+    "name": "Plainbadge (Strength)",
+    "type": "toggle",
+    "img": "images/items/plainbadge.png",
+    "codes": "BADGE,PLAINBADGE"
+  },
+  {
+    "name": "Fogbadge (Surf)",
+    "type": "toggle",
+    "img": "images/items/fogbadge.png",
+    "codes": "BADGE,FOGBADGE"
+  },
+  {
+    "name": "Stormbadge (Fly)",
+    "type": "toggle",
+    "img": "images/items/stormbadge.png",
+    "codes": "BADGE,STORMBADGE"
+  },
+  {
+    "name": "Mineralbadge",
+    "type": "toggle",
+    "img": "images/items/mineralbadge.png",
+    "codes": "BADGE,MINERALBADGE"
+  },
+  {
+    "name": "Glacierbadge (Whirlpool)",
+    "type": "toggle",
+    "img": "images/items/glacierbadge.png",
+    "codes": "BADGE,GLACIERBADGE"
+  },
+  {
+    "name": "Risingbadge (Waterfall)",
+    "type": "toggle",
+    "img": "images/items/risingbadge.png",
+    "codes": "BADGE,RISINGBADGE"
+  },
+  {
+    "name": "Boulderbadge",
+    "type": "toggle",
+    "img": "images/items/boulderbadge.png",
+    "codes": "BADGE,BOULDERBADGE"
+  },
+  {
+    "name": "Cascadebadge",
+    "type": "toggle",
+    "img": "images/items/cascadebadge.png",
+    "codes": "BADGE,CASCADEBADGE"
+  },
+  {
+    "name": "Thunderbadge",
+    "type": "toggle",
+    "img": "images/items/thunderbadge.png",
+    "codes": "BADGE,THUNDERBADGE"
+  },
+  {
+    "name": "Rainbowbadge",
+    "type": "toggle",
+    "img": "images/items/rainbowbadge.png",
+    "codes": "BADGE,RAINBOWBADGE"
+  },
+  {
+    "name": "Soulbadge",
+    "type": "toggle",
+    "img": "images/items/soulbadge.png",
+    "codes": "BADGE,SOULBADGE"
+  },
+  {
+    "name": "Marshbadge",
+    "type": "toggle",
+    "img": "images/items/marshbadge.png",
+    "codes": "BADGE,MARSHBADGE"
+  },
+  {
+    "name": "Volcanobadge",
+    "type": "toggle",
+    "img": "images/items/volcanobadge.png",
+    "codes": "BADGE,VOLCANOBADGE"
+  },
+  {
+    "name": "Earthbadge",
+    "type": "toggle",
+    "img": "images/items/earthbadge.png",
+    "codes": "BADGE,EARTHBADGE"
+  },
+  {
+    "name": "HM01 (Cut)",
+    "type": "toggle",
+    "img": "images/items/hm01.png",
+    "codes": "HM01"
+  },
+  {
+    "name": "HM02 (Fly)",
+    "type": "toggle",
+    "img": "images/items/hm02.png",
+    "codes": "HM02"
+  },
+  {
+    "name": "HM03 (Surf)",
+    "type": "toggle",
+    "img": "images/items/hm03.png",
+    "codes": "HM03"
+  },
+  {
+    "name": "HM04 (Strength)",
+    "type": "toggle",
+    "img": "images/items/hm04.png",
+    "codes": "HM04"
+  },
+  {
+    "name": "HM05 (Flash)",
+    "type": "toggle",
+    "img": "images/items/hm05.png",
+    "codes": "HM05"
+  },
+  {
+    "name": "HM06 (Whirlpool)",
+    "type": "toggle",
+    "img": "images/items/hm06.png",
+    "codes": "HM06"
+  },
+  {
+    "name": "HM07 (Waterfall)",
+    "type": "toggle",
+    "img": "images/items/hm07.png",
+    "codes": "HM07"
+  },
+  {
+    "name": "Pokédex",
+    "type": "toggle",
+    "img": "images/items/pokedex.png",
+    "codes": "POKEDEX"
+  },
+  {
+    "name": "Unowndex",
+    "type": "toggle",
+    "img": "images/items/unowndex.png",
+    "codes": "UNOWNDEX"
+  },
+  {
+    "name": "Pokégear",
+    "type": "toggle",
+    "img": "images/items/pokegear.png",
+    "codes": "POKEGEAR"
+  },
+  {
+    "name": "Map Card",
+    "type": "toggle",
+    "img": "images/items/map_card.png",
+    "codes": "MAP_CARD"
+  },
+  {
+    "name": "Radio Card",
+    "type": "toggle",
+    "img": "images/items/radio_card.png",
+    "codes": "RADIO_CARD"
+  },
+  {
+    "name": "Expn Card",
+    "type": "toggle",
+    "img": "images/items/expn_card.png",
+    "codes": "EXPN_CARD"
+  },
+  {
+    "name": "Basement Key",
+    "type": "toggle",
+    "img": "images/items/basement_key.png",
+    "codes": "BASEMENT_KEY"
+  },
+  {
+    "name": "Bicycle",
+    "type": "toggle",
+    "img": "images/items/bicycle.png",
+    "codes": "BICYCLE"
+  },
+  {
+    "name": "Blue Card",
+    "type": "toggle",
+    "img": "images/items/blue_card.png",
+    "codes": "BLUE_CARD"
+  },
+  {
+    "name": "Card Key",
+    "type": "toggle",
+    "img": "images/items/card_key.png",
+    "codes": "CARD_KEY"
+  },
+  {
+    "name": "Clear Bell",
+    "type": "toggle",
+    "img": "images/items/clear_bell.png",
+    "codes": "CLEAR_BELL"
+  },
+  {
+    "name": "Coin Case",
+    "type": "toggle",
+    "img": "images/items/coin_case.png",
+    "codes": "COIN_CASE"
+  },
+  {
+    "name": "Good Rod",
+    "type": "toggle",
+    "img": "images/items/good_rod.png",
+    "codes": "GOOD_ROD"
+  },
+  {
+    "name": "GS Ball",
+    "type": "consumable",
+    "img": "images/items/gs_ball.png",
+    "max_quantity": 2,
+    "codes": "GS_BALL"
+  },
+  {
+    "name": "Itemfinder",
+    "type": "toggle",
+    "img": "images/items/itemfinder.png",
+    "codes": "ITEMFINDER"
+  },
+  {
+    "name": "Lost Item",
+    "type": "toggle",
+    "img": "images/items/lost_item.png",
+    "codes": "LOST_ITEM"
+  },
+  {
+    "name": "Machine Part",
+    "type": "toggle",
+    "img": "images/items/machine_part.png",
+    "codes": "MACHINE_PART"
+  },
+  {
+    "name": "Mystery Egg",
+    "type": "toggle",
+    "img": "images/items/mystery_egg.png",
+    "codes": "MYSTERY_EGG"
+  },
+  {
+    "name": "Old Rod",
+    "type": "toggle",
+    "img": "images/items/old_rod.png",
+    "codes": "OLD_ROD"
+  },
+  {
+    "name": "Pass",
+    "type": "toggle",
+    "img": "images/items/pass.png",
+    "codes": "PASS"
+  },
+  {
+    "name": "Rainbow Wing",
+    "type": "toggle",
+    "img": "images/items/rainbow_wing.png",
+    "codes": "RAINBOW_WING"
+  },
+  {
+    "name": "Red Scale",
+    "type": "toggle",
+    "img": "images/items/red_scale.png",
+    "codes": "RED_SCALE"
+  },
+  {
+    "name": "Secretpotion",
+    "type": "toggle",
+    "img": "images/items/secretpotion.png",
+    "codes": "SECRETPOTION"
+  },
+  {
+    "name": "Silver Wing",
+    "type": "toggle",
+    "img": "images/items/silver_wing.png",
+    "codes": "SILVER_WING"
+  },
+  {
+    "name": "Squirtbottle",
+    "type": "toggle",
+    "img": "images/items/squirtbottle.png",
+    "codes": "SQUIRTBOTTLE"
+  },
+  {
+    "name": "S.S.Ticket",
+    "type": "toggle",
+    "img": "images/items/s_s_ticket.png",
+    "codes": "S_S_TICKET"
+  },
+  {
+    "name": "Super Rod",
+    "type": "toggle",
+    "img": "images/items/super_rod.png",
+    "codes": "SUPER_ROD"
+  },
+  {
+    "name": "Escape Rope",
+    "type": "progressive",
+    "img": "images/items/escape_rope.png",
+    "codes": "ESCAPE_ROPE",
+    "stages": [
+      {
+        "name": "Escape Rope",
+        "img": "images/items/escape_rope.png",
+        "codes": "ESCAPE_ROPE"
+      },
+      {
+        "name": "Escape Rope",
+        "img": "images/items/escape_rope_plus.png",
+        "codes": "ESCAPE_ROPE_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "Water Stone",
+    "type": "progressive",
+    "img": "images/items/water_stone.png",
+    "codes": "WATER_STONE",
+    "stages": [
+      {
+        "name": "Water Stone",
+        "img": "images/items/water_stone.png",
+        "codes": "WATER_STONE"
+      },
+      {
+        "name": "Water Stone",
+        "img": "images/items/water_stone_plus.png",
+        "codes": "WATER_STONE_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "Eon Mail",
+    "type": "progressive",
+    "img": "images/items/eon_mail.png",
+    "codes": "EON_MAIL",
+    "stages": [
+      {
+        "name": "Eon Mail",
+        "img": "images/items/eon_mail.png",
+        "codes": "EON_MAIL"
+      },
+      {
+        "name": "Eon Mail",
+        "img": "images/items/eon_mail_plus.png",
+        "codes": "EON_MAIL_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "X Attack",
+    "type": "progressive",
+    "img": "images/items/x_attack.png",
+    "codes": "X_ATTACK",
+    "stages": [
+      {
+        "name": "X Attack",
+        "img": "images/items/x_attack.png",
+        "codes": "X_ATTACK"
+      },
+      {
+        "name": "X Attack",
+        "img": "images/items/x_attack_plus.png",
+        "codes": "X_ATTACK_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "X Special",
+    "type": "progressive",
+    "img": "images/items/x_special.png",
+    "codes": "X_SPECIAL",
+    "stages": [
+      {
+        "name": "X Special",
+        "img": "images/items/x_special.png",
+        "codes": "X_SPECIAL"
+      },
+      {
+        "name": "X Special",
+        "img": "images/items/x_special_plus.png",
+        "codes": "X_SPECIAL_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "X Defend",
+    "type": "progressive",
+    "img": "images/items/x_defend.png",
+    "codes": "X_DEFEND",
+    "stages": [
+      {
+        "name": "X Defend",
+        "img": "images/items/x_defend.png",
+        "codes": "X_DEFEND"
+      },
+      {
+        "name": "X Defend",
+        "img": "images/items/x_defend_plus.png",
+        "codes": "X_DEFEND_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "X Speed",
+    "type": "progressive",
+    "img": "images/items/x_speed.png",
+    "codes": "X_SPEED",
+    "stages": [
+      {
+        "name": "X Speed",
+        "img": "images/items/x_speed.png",
+        "codes": "X_SPEED"
+      },
+      {
+        "name": "X Speed",
+        "img": "images/items/x_speed_plus.png",
+        "codes": "X_SPEED_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "X Accuracy",
+    "type": "progressive",
+    "img": "images/items/x_accuracy.png",
+    "codes": "X_ACCURACY",
+    "stages": [
+      {
+        "name": "X Accuracy",
+        "img": "images/items/x_accuracy.png",
+        "codes": "X_ACCURACY"
+      },
+      {
+        "name": "X Accuracy",
+        "img": "images/items/x_accuracy_plus.png",
+        "codes": "X_ACCURACY_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "Guard Spec",
+    "type": "progressive",
+    "img": "images/items/guard_spec.png",
+    "codes": "GUARD_SPEC",
+    "stages": [
+      {
+        "name": "Guard Spec",
+        "img": "images/items/guard_spec.png",
+        "codes": "GUARD_SPEC"
+      },
+      {
+        "name": "Guard Spec",
+        "img": "images/items/guard_spec_plus.png",
+        "codes": "GUARD_SPEC_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "Dire Hit",
+    "type": "progressive",
+    "img": "images/items/dire_hit.png",
+    "codes": "DIRE_HIT",
+    "stages": [
+      {
+        "name": "Dire Hit",
+        "img": "images/items/dire_hit.png",
+        "codes": "DIRE_HIT"
+      },
+      {
+        "name": "Dire Hit",
+        "img": "images/items/dire_hit_plus.png",
+        "codes": "DIRE_HIT_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "Berry",
+    "type": "progressive",
+    "img": "images/items/berry.png",
+    "codes": "BERRY",
+    "stages": [
+      {
+        "name": "Berry",
+        "img": "images/items/berry.png",
+        "codes": "BERRY,BERRY_1"
+      },
+      {
+        "name": "Berry",
+        "img": "images/items/berry_2.png",
+        "codes": "BERRY_2"
+      },
+      {
+        "name": "Berry",
+        "img": "images/items/berry_3.png",
+        "codes": "BERRY_3"
+      },
+      {
+        "name": "Berry",
+        "img": "images/items/berry_4.png",
+        "codes": "BERRY_4"
+      },
+      {
+        "name": "Berry",
+        "img": "images/items/berry_5.png",
+        "codes": "BERRY_5"
+      },
+      {
+        "name": "Berry",
+        "img": "images/items/berry_6.png",
+        "codes": "BERRY_6"
+      },
+      {
+        "name": "Berry",
+        "img": "images/items/berry_7.png",
+        "codes": "BERRY_7"
+      },
+      {
+        "name": "Berry",
+        "img": "images/items/berry_plus.png",
+        "codes": "BERRY_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "TM02 (Headbutt)",
+    "type": "progressive",
+    "img": "images/items/tm02.png",
+    "codes": "TM02",
+    "stages": [
+      {
+        "name": "TM02 (Headbutt)",
+        "img": "images/items/tm02.png",
+        "codes": "TM02"
+      },
+      {
+        "name": "TM02 (Headbutt)",
+        "img": "images/items/tm02_plus.png",
+        "codes": "TM02_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "TM08 (Rock Smash)",
+    "type": "progressive",
+    "img": "images/items/tm08.png",
+    "codes": "TM08",
+    "stages": [
+      {
+        "name": "TM08 (Rock Smash)",
+        "img": "images/items/tm08.png",
+        "codes": "TM08"
+      },
+      {
+        "name": "TM08 (Rock Smash)",
+        "img": "images/items/tm08_plus.png",
+        "codes": "TM08_PLUS"
+      }
+    ]
+  },
+  {
+    "name": "TM12 (Sweet Scent)",
+    "type": "progressive",
+    "img": "images/items/tm12.png",
+    "codes": "TM12",
+    "stages": [
+      {
+        "name": "TM12 (Sweet Scent)",
+        "img": "images/items/tm12.png",
+        "codes": "TM12"
+      },
+      {
+        "name": "TM12 (Sweet Scent)",
+        "img": "images/items/tm12_plus.png",
+        "codes": "TM12_PLUS"
+      }
+    ]
+  }
+]

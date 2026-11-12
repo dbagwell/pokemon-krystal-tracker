@@ -1,0 +1,100 @@
+{
+  "tracker_default": {
+    "type": "tabbed",
+    "tabs": [
+      { 
+        "title": "Tracking",
+        "content": {
+          "type": "dock",
+          "content": [
+            {
+              "type": "container",
+              "content": {
+                "type": "layout",
+                "key": "tabbed_maps"
+              }
+            },
+            {
+              "type": "array",
+              "orientation": "horizontal",
+              "h_alignment": "left",
+              "dock": "bottom",
+              "content": [
+                {
+                  "type": "tabbed",
+                  "tabs": [
+                    {
+                      "title": " ",
+                      "content": {
+                        "type": "group",
+                        "header": "Items",
+                        "content": {
+                          "type": "layout",
+                          "key": "item_grid"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "tabbed",
+                  "tabs": [
+                    {
+                      "title": "Map",
+                      "content": {
+                        "type": "map",
+                        "maps": [
+                          "map"
+                        ]
+                      }
+                    },
+                    {
+                      "title": "Extras",
+                      "content": {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                          {
+                            "type": "group",
+                            "header": "Events",
+                            "content": {
+                              "type": "layout",
+                              "key": "event_grid"
+                            }
+                          },
+                          {
+                            "type": "group",
+                            "header": "Phone #s",
+                            "content": {
+                              "type": "layout",
+                              "key": "phone_number_grid"
+                            }
+                          },
+                          {
+                            "type": "group",
+                            "header": "Show and Tell Pokemon",
+                            "content": {
+                              "type": "layout",
+                              "key": "show_and_tell_grid"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "Pokemon",
+        "content": {
+          "type": "layout",
+          "key": "pokemon_grid"
+        }
+      }
+    ]
+  }
+}

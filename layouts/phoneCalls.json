@@ -1,0 +1,41 @@
+{
+  "phone_number_grid": {
+    "type": "itemgrid",
+    "item_margin": "2,2",
+    "h_alignment": "left",
+    "rows": [
+      [
+        "WADE_PHONE_NUMBER",
+        "JOEY_PHONE_NUMBER"
+      ],
+      [
+        "GINA_PHONE_NUMBER",
+        "HUEY_PHONE_NUMBER"
+      ],
+      [
+        "TODD_PHONE_NUMBER",
+        "VANCE_PHONE_NUMBER"
+      ],
+      [
+        "ALAN_PHONE_NUMBER",
+        "PARRY_PHONE_NUMBER"
+      ],
+      [
+        "DANA_PHONE_NUMBER",
+        "ERIN_PHONE_NUMBER"
+      ],
+      [
+        "TULLY_PHONE_NUMBER",
+        "BEVERLY_PHONE_NUMBER"
+      ],
+      [
+        "WILTON_PHONE_NUMBER",
+        "DEREK_PHONE_NUMBER"
+      ],
+      [
+        "JOSE_PHONE_NUMBER",
+        "TIFFANY_PHONE_NUMBER"
+      ]
+    ]
+  }
+}

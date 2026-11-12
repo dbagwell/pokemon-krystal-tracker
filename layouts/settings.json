@@ -1,0 +1,43 @@
+{
+  "settings_popup": {
+    "type": "dock", 
+    "content": [
+      {
+        "type": "group",
+        "header": "AP Autotracking Settings",
+        "v_alignment": "stretch",
+        "h_alignment": "stretch",
+        "content": {
+          "type": "itemgrid",
+          "item_margin": "2,2",
+          "v_alignment": "top",
+          "h_alignment": "left",
+          "rows": [
+            [
+              "AUTO_TAB",
+              "SMART_MARTS"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Manual Logic Settings",
+        "v_alignment": "stretch",
+        "h_alignment": "stretch",
+        "content": {
+          "type": "itemgrid",
+          "item_size": "430,54",
+          "item_margin": "5,5",
+          "v_alignment": "top",
+          "h_alignment": "left",
+          "rows": [
+            [
+              "MANUAL_LOGIC_SETTINGS"
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}

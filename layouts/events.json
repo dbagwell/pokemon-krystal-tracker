@@ -1,0 +1,49 @@
+{
+  "event_grid": {
+    "type": "itemgrid",
+    "item_margin": "2,2",
+    "h_alignment": "left",
+    "rows": [
+      [
+        "ELMS_LAB_GAVE_MYSTERY_EGG",
+        "VIOLET_POKECENTER_1F_GOT_MYSTERY_EGG",
+        "HALL_OF_FAME_ENTERED"
+      ],
+      [
+        "KURTS_HOUSE_TALKED_TO_KURT",
+        "SLOWPOKE_WELL_B1F_EAST_AREA_DEFEATED_ROCKETS",
+        "ROUTE_35_GOLDENROD_GATE_GOT_KENYA"
+      ],
+      [
+        "ROUTE_36_WEST_AREA_TALKED_TO_FLORIA",
+        "BURNED_TOWER_B1F_AWOKE_LEGENDARY_BEASTS",
+        "TIN_TOWER_ROOF_FOUGHT_HO_OH"
+      ],
+      [
+        "OLIVINE_LIGHTHOUSE_6F_TALKED_TO_JASMINE",
+        "OLIVINE_LIGHTHOUSE_6F_HEALED_AMPHY",
+        "LAKE_OF_RAGE_MAIN_AREA_TALKED_TO_LANCE"
+      ],
+      [
+        "TEAM_ROCKET_BASE_B3F_SE_AREA_GOT_FEMALE_GRUNTS_PASSWORD",
+        "TEAM_ROCKET_BASE_B3F_SE_AREA_GOT_SW_GRUNTS_PASSWORD",
+        "TEAM_ROCKET_BASE_B3F_ADMIN_AREA_GOT_MURKROWS_PASSWORD"
+      ],
+      [
+        "BLACKTHORN_GYM_1F_BACK_AREA_DEFEATED_CLAIR",
+        "FAST_SHIP_B1F_EAST_AREA_TALKED_TO_SAILOR",
+        "FAST_SHIP_CABINS_NNW_FOUGHT_SAILOR"
+      ],
+      [
+        "POWER_PLANT_TALKED_TO_MANAGER",
+        "CERULEAN_GYM_CONFRONTED_ROCKET",
+        "ROUTE_25_MET_MISTY"
+      ],
+      [
+        "VERMILION_CITY_WOKE_SNORLAX",
+        "CINNABAR_ISLAND_TALKED_TO_BLUE",
+        "OAKS_LAB_GOT_OAKS_APPROVAL"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Auto Tab",
+    "type": "progressive",
+    "loop": true,
+    "img": "images/settings/auto_tab.png",
+    "codes": "AUTO_TAB",
+    "stages": [
+      {
+      "name": "Auto Tab",
+      "img": "images/settings/auto_tab.png",
+      "codes": "AUTO_TAB"
+      }
+    ]
+  },
+  {
+    "name": "Smart Marts",
+    "type": "progressive",
+    "loop": true,
+    "img": "images/settings/smart_marts.png",
+    "codes": "SMART_MARTS",
+    "stages": [
+      {
+      "name": "Smart Marts",
+      "img": "images/settings/smart_marts.png",
+      "codes": "SMART_MARTS"
+      }
+    ]
+  },
+  {
+    "name": "Manual Logic Settings",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "inherit_codes": false,
+    "codes": "MANUAL_LOGIC_SETTINGS",
+    "stages": [
+      {
+      "name": "Vanilla Logic",
+      "img": "images/settings/vanilla_logic.png",
+      "codes": "VANILLA_LOGIC"
+      },
+      {
+      "name": "Classic KIR Logic",
+      "img": "images/settings/classic_kir_logic.png",
+      "codes": "CLASSIC_KIR_LOGIC"
+      },
+      {
+      "name": "Classic Extreme KIR Logic",
+      "img": "images/settings/classic_extreme_kir_logic.png",
+      "codes": "CLASSIC_EXTREME_KIR_LOGIC"
+      },
+      {
+      "name": "Classic FIR Logic",
+      "img": "images/settings/classic_fir_logic.png",
+      "codes": "CLASSIC_FIR_LOGIC"
+      },
+      {
+      "name": "Classic Extreme FIR Logic",
+      "img": "images/settings/classic_extreme_fir_logic.png",
+      "codes": "CLASSIC_EXTREME_FIR_LOGIC"
+      },
+      {
+      "name": "Classic Crazy FIR Logic",
+      "img": "images/settings/classic_crazy_fir_logic.png",
+      "codes": "CLASSIC_CRAZY_FIR_LOGIC"
+      },
+      {
+      "name": "Classic Max Logic",
+      "img": "images/settings/classic_max_logic.png",
+      "codes": "CLASSIC_MAX_LOGIC"
+      },
+      {
+      "name": "Maximum+ Logic",
+      "img": "images/settings/maximum_plus_logic.png",
+      "codes": "MAXIMUM_PLUS_LOGIC"
+      }
+    ]
+  },
+  {
+    "name": "UPDATE_INVOKER",
+    "type": "toggle",
+    "codes": "UPDATE_INVOKER"
+  },
+  {
+    "name": "RESET_LISTENER",
+    "type": "toggle",
+    "codes": "RESET_LISTENER"
+  }
+]

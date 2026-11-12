@@ -1,0 +1,27 @@
+{
+  "show_and_tell_grid": {
+    "type": "itemgrid",
+    "item_size": "64,64",
+    "item_margin": "0,0",
+    "h_alignment": "left",
+    "rows": [
+      [
+        "SHOW_AND_TELL_TOGEPI",
+        "SHOW_AND_TELL_MAGIKARP",
+        "SHOW_AND_TELL_MARILL",
+        "SHOW_AND_TELL_PIKACHU",
+        "SHOW_AND_TELL_CLEFAIRY"
+      ],
+      [
+        "SHOW_AND_TELL_LICKITUNG",
+        "SHOW_AND_TELL_ODDISH",
+        "SHOW_AND_TELL_STARYU",
+        "SHOW_AND_TELL_GROWLITHE",
+        "SHOW_AND_TELL_PICHU"
+      ],
+      [
+        "SHOW_AND_TELL_UNOWN"
+      ]
+    ]
+  }
+}

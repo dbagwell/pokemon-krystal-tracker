@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "package_version": "0.7.0",
+      "download_url": "https://github.com/dbagwell/pokemon-krystal-tracker/releases/download/v0.7.0/pokemon-krystal-tracker-0.7.0.zip",
+      "sha256": "17ef48c138ddd56287acef310485dbc6a5eb8974011081aab608d3662fa1422c",
+      "changelog": [
+        "Check release notes"
+      ]
+    }
+  ]
+}

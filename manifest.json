@@ -1,0 +1,19 @@
+{
+  "name": "Pokémon Krystal",
+  "game_name": "Pokémon Krystal",
+  "package_version": "0.7.0",
+  "package_uid": "pokemon_krystal",
+  "author": "Kovolta",
+  "min_poptracker_version": "0.25.9",
+  "target_poptracker_version": "0.32.0",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap",
+        "aphintgame"
+      ]
+    }
+  },
+  "versions_url": "https://raw.githubusercontent.com/dbagwell/pokemon-krystal-tracker/refs/heads/main/versions.json"
+}

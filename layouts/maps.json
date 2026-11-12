@@ -1,0 +1,1918 @@
+{
+  "tabbed_maps": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Overview",
+        "content": [
+          {
+            "type": "map",
+            "maps": [
+              "map"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "South East Johto",
+        "content": [
+          {
+            "type": "tabbed",
+            "tabs": [
+              {
+                "title": "New Bark Town",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "new_bark_town"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 29",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_29"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Cherrygrove City",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "cherrygrove_city"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 30",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_30"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 31",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Route",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_31"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Dark Cave",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "dark_cave_violet_entrance"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Violet City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "violet_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "violet_gym"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Sprout Tower",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "sprout_tower"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 36",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_36"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Ruins of Alph",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Outside",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "ruins_of_alph_outside"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Item Chambers",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "ruins_of_alph_item_chambers"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 32",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_32"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Union Cave",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "union_cave"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 33",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_33"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Azalea Town",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Town",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "azalea_town"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "azalea_gym"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Slowpoke Well",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "slowpoke_well"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "South West Johto",
+        "content": [
+          {
+            "type": "tabbed",
+            "tabs": [
+              {
+                "title": "Ilex Forest",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "ilex_forest"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 34",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_34"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Goldenrod City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "goldenrod_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "goldenrod_gym"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Dept. Store",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "goldenrod_dept_store"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Radio Tower",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "radio_tower"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Underground",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "goldenrod_underground"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Warehouse",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "goldenrod_underground_warehouse"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 35",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_35"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "National Park",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "national_park"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "North West Johto",
+        "content": [
+          {
+            "type": "tabbed",
+            "tabs": [
+              {
+                "title": "Route 37",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_37"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Ecruteak City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "ecruteak_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "ecruteak_gym"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Burned Tower",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "burned_tower"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Tin Tower",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "tin_tower"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 38",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_38"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 39",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_39"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Olivine City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "olivine_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "olivine_gym"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Lighthouse",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "olivine_lighthouse"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Port",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "olivine_port"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "S.S. Aqua",
+                        "content": [
+                          {
+                            "type": "tabbed",
+                            "tabs": [
+                              {
+                                "title": "Decks",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "ss_aqua_decks"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Cabins",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "ss_aqua_cabins"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 40",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_40"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 41",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Route",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_41"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Whirl Islands",
+                        "content": [
+                          {
+                            "type": "tabbed",
+                            "tabs": [
+                              {
+                                "title": "Entrances",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "whirl_island_entrances"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "B1F",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "whirl_island_b1f"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "B2F",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "whirl_island_b2f"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Cianwood City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "cianwood_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "cianwood_gym"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 42",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Route",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_42"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Mount Mortar",
+                        "content": [
+                          {
+                            "type": "tabbed",
+                            "tabs": [
+                              {
+                                "title": "Front",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mount_mortar_front"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Back 1F",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mount_mortar_back_1f"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Back 2F",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mount_mortar_back_2f"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "B1F",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mount_mortar_b1f"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Mahogany Town",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Town",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "mahogany_town"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "mahogany_gym"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Rocket Base",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "team_rocket_base"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 43",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_43"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Lake of Rage",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "lake_of_rage"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "North East Johto",
+        "content": [
+          {
+            "type": "tabbed",
+            "tabs": [
+              {
+                "title": "Route 44",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_44"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Ice Path",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "1F",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "ice_path_1f"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "B1F - B3F",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "ice_path_b1f_b2f_b3f"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Blackthorn City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "blackthorn_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "blackthorn_gym"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Dragon's Den",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "dragons_den"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 45",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Route",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_45"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Dark Cave",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "dark_cave_blackthorn_entrance"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 46",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Route",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_46"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Dark Cave",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "dark_cave_violet_entrance"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Victory Road",
+        "content": [
+          {
+            "type": "tabbed",
+            "tabs": [
+              {
+                "title": "Route 27",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Route",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_27"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Tohjo Falls",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "tohjo_falls"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 26",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_26"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Victory Road",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "victory_road"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 23",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_23"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Indigo Plateau",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "indigo_plateau"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 28",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_28_and_silver_cave_outside"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Silver Cave",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "silver_cave"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Central Kanto",
+        "content": [
+          {
+            "type": "tabbed",
+            "tabs": [
+              {
+                "title": "Vermilion City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "vermilion_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "vermilion_gym"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Port",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "vermilion_port"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "S.S. Aqua",
+                        "content": [
+                          {
+                            "type": "tabbed",
+                            "tabs": [
+                              {
+                                "title": "Decks",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "ss_aqua_decks"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Cabins",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "ss_aqua_cabins"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Diglett's Cave",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "digletts_cave"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Routes 5 - 7",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "5",
+                        "content": [
+                          {
+                            "type": "tabbed",
+                            "tabs": [
+                              {
+                                "title": "Route",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "route_5"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Underground Path",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "underground_path"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "6",
+                        "content": [
+                          {
+                            "type": "tabbed",
+                            "tabs": [
+                              {
+                                "title": "Route",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "route_6"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Underground Path",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "underground_path"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "7",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_7"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Saffron City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "saffron_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "saffron_gym"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Cerulean City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "cerulean_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "cerulean_gym"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 24 + 25",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "24",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_24"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "25",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_25"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Celadon City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "celadon_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "celadon_gym"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Dept. Store",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "celadon_dept_store"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Routes 16 - 18",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Route 16",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_16"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Route 17",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_17"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Route 18",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_18"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Fuchsia City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "fuchsia_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "fuchsia_gym"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "East Kanto",
+        "content": [
+          {
+            "type": "tabbed",
+            "tabs": [
+              {
+                "title": "Route 8",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_8"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Lavender Town",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "lavender_town"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Rock Tunnel",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "rock_tunnel"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Routes 9 + 10",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "9",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_9"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "10",
+                        "content": [
+                          {
+                            "type": "tabbed",
+                            "tabs": [
+                              {
+                                "title": "Route",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "route_10"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Power Plant",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "power_plant"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Routes 11 - 15",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "11",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_11"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "12",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_12"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "13",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_13"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "14",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_14"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "15",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_15"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "West Kanto",
+        "content": [
+          {
+            "type": "tabbed",
+            "tabs": [
+              {
+                "title": "Route 2",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Route",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_2"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Diglett's Cave",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "digletts_cave"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Pewter City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "pewter_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "pewter_gym"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 3",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_3"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Mount Moon",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Cave",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "mount_moon"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Square",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "mount_moon_square"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 4",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_4"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Viridian City",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "City",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "viridian_city"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Gym",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "viridian_gym"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Route 1",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "route_1"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Pallet Town",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "pallet_town"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Cinnabar Island",
+                "content": [
+                  {
+                    "type": "map",
+                    "maps": [
+                      "cinnabar_island"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Routes 19 - 21",
+                "content": [
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "19",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_19"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "20",
+                        "content": [
+                          {
+                            "type": "tabbed",
+                            "tabs": [
+                              {
+                                "title": "Route",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "route_20"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Gym",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "seafoam_gym"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "21",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_21"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "22",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "route_22"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

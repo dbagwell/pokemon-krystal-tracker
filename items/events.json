@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Elm's Lab - Gave Mystery Egg",
+    "type": "toggle",
+    "img": "images/locations/mystery_egg_elm.png",
+    "codes": "ELMS_LAB_GAVE_MYSTERY_EGG"
+  },
+  {
+    "name": "Violet Pokecenter - 1F - Got Mystery Egg",
+    "type": "toggle",
+    "img": "images/locations/violet_aide.png",
+    "codes": "VIOLET_POKECENTER_1F_GOT_MYSTERY_EGG"
+  },
+  {
+    "name": "Kurt's House - Talked To Kurt",
+    "type": "toggle",
+    "img": "images/locations/kurt.png",
+    "codes": "KURTS_HOUSE_TALKED_TO_KURT"
+  },
+  {
+    "name": "Slowpoke Well - B1F - East Area - Defeated Rockets",
+    "type": "toggle",
+    "img": "images/locations/well_rocket_m.png",
+    "codes": "SLOWPOKE_WELL_B1F_EAST_AREA_DEFEATED_ROCKETS"
+  },
+  {
+    "name": "Route 35 - Goldenrod Gate - Got Kenya",
+    "type": "toggle",
+    "img": "images/locations/randy.png",
+    "codes": "ROUTE_35_GOLDENROD_GATE_GOT_KENYA"
+  },
+  {
+    "name": "Route 36 - West Area - Talked To Floria",
+    "type": "toggle",
+    "img": "images/locations/floria.png",
+    "codes": "ROUTE_36_WEST_AREA_TALKED_TO_FLORIA"
+  },
+  {
+    "name": "Burned Tower - B1F - Awoke Legendary Beasts",
+    "type": "toggle",
+    "img": "images/locations/suicune.png",
+    "codes": "BURNED_TOWER_B1F_AWOKE_LEGENDARY_BEASTS"
+  },
+  {
+    "name": "Olivine Lighthouse - 6F - Talked To Jasmine",
+    "type": "toggle",
+    "img": "images/locations/amphy_jasmine.png",
+    "codes": "OLIVINE_LIGHTHOUSE_6F_TALKED_TO_JASMINE"
+  },
+  {
+    "name": "Olivine Lighthouse - 6F - Healed Amphy",
+    "type": "toggle",
+    "img": "images/locations/secretpotion_jasmine.png",
+    "codes": "OLIVINE_LIGHTHOUSE_6F_HEALED_AMPHY"
+  },
+  {
+    "name": "Lake Of Rage - Main Area - Talked To Lance",
+    "type": "toggle",
+    "img": "images/locations/lake_lance.png",
+    "codes": "LAKE_OF_RAGE_MAIN_AREA_TALKED_TO_LANCE"
+  },
+  {
+    "name": "Team Rocket Base - B3F - SE Area - Got Female Grunt's Password",
+    "type": "toggle",
+    "img": "images/locations/password_rocket_f.png",
+    "codes": "TEAM_ROCKET_BASE_B3F_SE_AREA_GOT_FEMALE_GRUNTS_PASSWORD"
+  },
+  {
+    "name": "Team Rocket Base - B3F - SE Area - Got SW Grunt's Password",
+    "type": "toggle",
+    "img": "images/locations/password_rocket_m.png",
+    "codes": "TEAM_ROCKET_BASE_B3F_SE_AREA_GOT_SW_GRUNTS_PASSWORD"
+  },
+  {
+    "name": "Team Rocket Base - B3F - Admin Area - Got Murkrow's Password",
+    "type": "toggle",
+    "img": "images/locations/murkrow.png",
+    "codes": "TEAM_ROCKET_BASE_B3F_ADMIN_AREA_GOT_MURKROWS_PASSWORD"
+  },
+  {
+    "name": "Tin Tower - Roof - Fought Ho-Oh",
+    "type": "toggle",
+    "img": "images/locations/ho_oh.png",
+    "codes": "TIN_TOWER_ROOF_FOUGHT_HO_OH"
+  },
+  {
+    "name": "Blackthorn Gym - 1F - Back Area - Defeated Clair",
+    "type": "toggle",
+    "img": "images/locations/clair.png",
+    "codes": "BLACKTHORN_GYM_1F_BACK_AREA_DEFEATED_CLAIR"
+  },
+  {
+    "name": "Hall of Fame - Became Champion",
+    "type": "toggle",
+    "img": "images/locations/champion_lance.png",
+    "codes": "HALL_OF_FAME_ENTERED"
+  },
+  {
+    "name": "Fast Ship - B1F - East Area - Talked To Sailor",
+    "type": "toggle",
+    "img": "images/locations/annoyed_sailor.png",
+    "codes": "FAST_SHIP_B1F_EAST_AREA_TALKED_TO_SAILOR"
+  },
+  {
+    "name": "Fast Ship Cabins - NNW - Fought Sailor",
+    "type": "toggle",
+    "img": "images/locations/lazy_sailor.png",
+    "codes": "FAST_SHIP_CABINS_NNW_FOUGHT_SAILOR"
+  },
+  {
+    "name": "Power Plant - Talked To Manager",
+    "type": "toggle",
+    "img": "images/locations/power_plant_manager.png",
+    "codes": "POWER_PLANT_TALKED_TO_MANAGER"
+  },
+  {
+    "name": "Cerulean Gym - Confronted Rocket",
+    "type": "toggle",
+    "img": "images/locations/cerulean_rocket_m.png",
+    "codes": "CERULEAN_GYM_CONFRONTED_ROCKET"
+  },
+  {
+    "name": "Route 25 - Met Misty",
+    "type": "toggle",
+    "img": "images/locations/misty.png",
+    "codes": "ROUTE_25_MET_MISTY"
+  },
+  {
+    "name": "Vermilion City - Woke Snorlax",
+    "type": "toggle",
+    "img": "images/locations/big_snorlax.png",
+    "codes": "VERMILION_CITY_WOKE_SNORLAX"
+  },
+  {
+    "name": "Cinnabar Island - Talked To Blue",
+    "type": "toggle",
+    "img": "images/locations/blue.png",
+    "codes": "CINNABAR_ISLAND_TALKED_TO_BLUE"
+  },
+  {
+    "name": "Oaks Lab - Got Oaks Approval",
+    "type": "toggle",
+    "img": "images/locations/oak.png",
+    "codes": "OAKS_LAB_GOT_OAKS_APPROVAL"
+  },
+  {
+    "name": "Silver Cave - Room 3 - Defeated Red",
+    "type": "toggle",
+    "img": "images/locations/red.png",
+    "codes": "SILVER_CAVE_ROOM_3_DEFEATED_RED"
+  }
+]
