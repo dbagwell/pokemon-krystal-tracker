@@ -5476,7 +5476,7 @@
         "name": "Route 31 - Wade - Received Call",
         "hosted_item": "WADE_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|WADE_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_31_WADES_GIFT_1"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|WADE_PHONE_CALL"
@@ -5496,7 +5496,7 @@
         "name": "Route 34 - Gina - Received Call",
         "hosted_item": "GINA_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|GINA_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_34_MAIN_AREA_GINAS_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|GINA_PHONE_CALL"
@@ -5516,7 +5516,7 @@
         "name": "Route 34 - Todd - Received Call",
         "hosted_item": "TODD_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|TODD_PHONE_CALL"
+          "$shouldShowLocation|GOLDENROD_DEPT_STORE_ROOF_SHOP_1"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|TODD_PHONE_CALL"
@@ -5536,7 +5536,7 @@
         "name": "Route 36 - Alan - Received Call",
         "hosted_item": "ALAN_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|ALAN_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_36_WEST_AREA_ALANS_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|ALAN_PHONE_CALL"
@@ -5556,7 +5556,7 @@
         "name": "Route 38 - Dana - Received Call",
         "hosted_item": "DANA_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|DANA_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_38_DANAS_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|DANA_PHONE_CALL"
@@ -5576,7 +5576,7 @@
         "name": "Route 42 - Tully - Received Call",
         "hosted_item": "TULLY_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|TULLY_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_42_MAHOGANY_SIDE_TULLYS_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|TULLY_PHONE_CALL"
@@ -5596,7 +5596,7 @@
         "name": "Route 44 - Wilton - Received Call",
         "hosted_item": "WILTON_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|WILTON_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_44_WILTONS_GIFT_1"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|WILTON_PHONE_CALL"
@@ -5616,7 +5616,7 @@
         "name": "Route 27 - Jose - Received Call",
         "hosted_item": "JOSE_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|JOSE_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_27_WHIRLPOOL_AREA_JOSES_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|JOSE_PHONE_CALL"
@@ -5636,7 +5636,7 @@
         "name": "Route 30 - Joey - Received Call",
         "hosted_item": "JOEY_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|JOEY_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_30_CHERRYGROVE_SIDE_JOEYS_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|JOEY_PHONE_CALL"
@@ -5656,7 +5656,7 @@
         "name": "Olivine Lighthouse - 2F - Huey - Received Call",
         "hosted_item": "HUEY_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|HUEY_PHONE_CALL"
+          "$shouldShowLocation|OLIVINE_LIGHTHOUSE_2F_HUEYS_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|HUEY_PHONE_CALL"
@@ -5676,7 +5676,7 @@
         "name": "Route 44 - Vance - Received Call",
         "hosted_item": "VANCE_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|VANCE_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_44_VANCES_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|VANCE_PHONE_CALL"
@@ -5696,7 +5696,7 @@
         "name": "Route 45 - Parry - Received Call",
         "hosted_item": "PARRY_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|PARRY_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_45_PARRYS_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|PARRY_PHONE_CALL"
@@ -5716,7 +5716,7 @@
         "name": "Route 46 - Erin - Received Call",
         "hosted_item": "ERIN_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|ERIN_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_46_NORTH_AREA_ERINS_GIFT"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|ERIN_PHONE_CALL"
@@ -5736,7 +5736,7 @@
         "name": "National Park - Beverly - Received Call",
         "hosted_item": "BEVERLY_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|BEVERLY_PHONE_CALL"
+          "$shouldShowLocation|NATIONAL_PARK_BEVERLYS_GIFT_FOR_MARILL"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|BEVERLY_PHONE_CALL"
@@ -5756,7 +5756,7 @@
         "name": "Route 39 - Derek - Received Call",
         "hosted_item": "DEREK_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|DEREK_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_39_DEREKS_GIFT_FOR_PIKACHU"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|DEREK_PHONE_CALL"
@@ -5776,7 +5776,7 @@
         "name": "Route 43 - Tiffany - Received Call",
         "hosted_item": "TIFFANY_PHONE_CALL_HOSTED",
         "visibility_rules": [
-          "$shouldShowLocation|TIFFANY_PHONE_CALL"
+          "$shouldShowLocation|ROUTE_43_TIFFANYS_GIFT_FOR_CLEFAIRY"
         ],
         "access_rules": [
           "^$accessibilityLevelForLocation|TIFFANY_PHONE_CALL"
